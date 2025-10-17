@@ -11,8 +11,11 @@ It’s designed to build emotional awareness gently through guided prompts and e
 ---
 
 ### 🖼️ Preview
-![Dig Deeper Screenshot 1](link-to-screenshot-1)
-![Dig Deeper Screenshot 2](link-to-screenshot-2)
+![Dig Deeper Screenshot 1](images/01.png)
+![Dig Deeper Screenshot 2](images/02.png)
+![Dig Deeper Screenshot 2](images/03.png)
+![Dig Deeper Screenshot 2](images/04.png)
+![Dig Deeper Screenshot 2](images/05.png)
 
 ---
 
