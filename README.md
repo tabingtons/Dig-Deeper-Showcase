@@ -25,9 +25,9 @@ It’s designed to build emotional awareness gently through guided prompts and e
 - ✏️ Clean, distraction-free daily journaling  
 - 💬 Emotion tagging to help you build awareness  
 - 🔐 Private and offline-first — your thoughts stay yours  
-- ☁️ iCloud sync across your devices  
+<!-- - ☁️ iCloud sync across your devices
 - 🎯 Gentle reminders to reflect daily  
-
+-->
 ---
 
 ### 🛠️ Tech Stack
