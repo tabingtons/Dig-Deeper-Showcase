@@ -11,11 +11,13 @@ It’s designed to build emotional awareness gently through guided prompts and e
 ---
 
 ### 🖼️ Preview
-<img src="images/01.png" width="200" alt="App Store Image 1">
-<img src="images/02.png" width="200" alt="App Store Image 2">
-<img src="images/03.png" width="200" alt="App Store Image 3">
-<img src="images/04.png" width="200" alt="App Store Image 4">
-<img src="images/05.png" width="200" alt="App Store Image 5">
+<div style="display: flex; gap: 10px;">
+<img src="images/01.png" width="150" alt="App Store Image 1">
+<img src="images/02.png" width="150" alt="App Store Image 2">
+<img src="images/03.png" width="150" alt="App Store Image 3">
+<img src="images/04.png" width="150" alt="App Store Image 4">
+<img src="images/05.png" width="150" alt="App Store Image 5">
+</div>
 
 ---
 
